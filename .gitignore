@@ -1,4 +1,9 @@
 lib
 logs
 temp
-webapps
+webapps/*
+!webapps/docs/
+!webapps/examples
+!webapps/host-manager/
+!webapps/ROOT/
+!webapps/manager/
